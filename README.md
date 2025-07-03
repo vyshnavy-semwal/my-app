@@ -4,8 +4,8 @@ This is the official portfolio and session information website for **Dr. Sareena
 
 ## 🌐 Live Website
 
-Deployed on [Netlify](https://www.netlify.com/).  
-🔗 **Visit here**: _[Insert your Netlify URL here]_
+Deployed on vercel 
+🔗 **Visit here**: https://my-project-rust-eight.vercel.app/#contact
 
 ## 🧰 Built With
 
